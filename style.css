@@ -1,0 +1,11 @@
+.selection_bubble {
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background:-webkit-gradient(linear, left top, left bottom, from(#ffffe6), to(#075698));
+    width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 1px solid red;
+  }
